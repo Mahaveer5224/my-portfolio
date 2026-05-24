@@ -22,8 +22,7 @@ def project_card(title, desc, tech, button_text):
     </div>
     """, unsafe_allow_html=True)
 
-    if st.button(button_text):
-        st.link_button("🔗 View GitHub", "https://github.com/Mahaveer5224/my-portfolio")
+    st.link_button("🔗 View GitHub", "https://github.com/Mahaveer5224/my-portfolio")
 
 
 # 🔹 Project 1
@@ -31,7 +30,7 @@ project_card(
     "⚙️ Jenkins CI/CD Pipeline",
     "Automated build and deployment pipeline using Jenkins integrated with GitHub.",
     "Jenkins, GitHub, Python",
-    "View Jenkins Project"
+    "https://github.com/Mahaveer5224/my-portfolio"
 )
 
 # 🔹 Project 2
