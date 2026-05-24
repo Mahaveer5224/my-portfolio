@@ -23,6 +23,7 @@ def project_card(title, desc, tech, button_text):
     """, unsafe_allow_html=True)
 
     st.link_button("🔗 View GitHub", "https://github.com/Mahaveer5224/my-portfolio")
+    st.caption("⭐ Click to view source code")
 
 
 # 🔹 Project 1
