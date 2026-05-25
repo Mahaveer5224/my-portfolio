@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#4f38d6"            # your main blue (buttons, highlights)
+
+backgroundColor = "#0f1020"         # deep navy (modern dark background)
+
+secondaryBackgroundColor = "#1a1b33" # slightly lighter card/sidebar contrast
+
+textColor = "#f5f7ff"               # soft white for readability
+font = "sans serif"
